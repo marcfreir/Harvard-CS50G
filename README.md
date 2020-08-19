@@ -10,7 +10,6 @@ CS50G - Game Development with Lua and Löve
 
 ### __Projects__
 
-<br />
 
 #### 01 - Pong
 #### 02 - Flappy Bird
