@@ -2,19 +2,15 @@
 
 <div align="center">
 CS50G - Game Development with Lua and Löve
-</div>
+</div><br />
 
 <div align="center">
-    <figure>
-        <img src="./res/Lua-Logo.png" alt="Lua Logo" srcset="" style="width: 80px" />
-        <span>+</span>
-        <img src="./res/love-logo.png" alt="Lua Logo" srcset="" style="width: 120px" />
-    </figure>
+<img src="./res/Lua-Love-Logo.png" alt="Lua Love" srcset="" style="width: 180px" />
 </div>
 
 ### __Projects__
 
-</br>
+<br />
 
 #### 01 - Pong
 #### 02 - Flappy Bird
