@@ -5,7 +5,7 @@ CS50G - Game Development with Lua and Löve
 </div><br />
 
 <div align="center">
-<img src="./res/Lua-Love-Logo.png" alt="Lua Love" srcset="" style="max-width: 180px" />
+<img src="./res/Lua-Love-Logo.png" alt="Lua Love" srcset="" style="max-width: 60%" />
 </div>
 
 ### __Projects__
