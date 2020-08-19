@@ -6,7 +6,7 @@ CS50G - Game Development with Lua and Löve
 
 <div align="center">
     <figure>
-        <img src="./res/Lua-Logo.svg" alt="Lua Logo" srcset="" style="width: 80px" />
+        <img src="./res/Lua-Logo.png" alt="Lua Logo" srcset="" style="width: 80px" />
         <span>+</span>
         <img src="./res/love-logo.png" alt="Lua Logo" srcset="" style="width: 120px" />
     </figure>
