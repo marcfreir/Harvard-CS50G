@@ -31,14 +31,21 @@ love.window.setTitle( "Hey" )
 
 -- Initialize the game
 function love.load()
-    
+    -- Make text smooth (not blurry)
     love.graphics.setDefaultFilter('nearest', 'nearest')
 
-    love.window.setMode(WINDOW_WIDTH, WINDOW_HEIGHT, {
+    love.window.setMode(VIRTUAL_WIDTH, VIRTUAL_HEIGHT, WINDOW_WIDTH, WINDOW_HEIGHT, {
         fullscreen = false,
         resizable = true,
         vsync = true
     })
+end
+
+-- Add keyboard handling
+function love.keypressed(key)
+    if key == 'escape' then
+        love.event.quit()
+    end
 end
 
 -- Draw on screen
